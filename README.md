@@ -1,8 +1,10 @@
 22/09/2026
 
-<!-- notify 1/2 · 8pB9p26o -->
-## Notification 1/2
-Round: Round 1
-To: abnelson13@hotmail.com, tomssack@aol.com
-At: 2026-09-22 18:28:57
-Id: 8pB9p26o
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: lilidelaney@hotmail.com, williamreeder1792@yahoo.com
+At: 2026-09-22 18:29:05
+Id: bxKNb7uh
